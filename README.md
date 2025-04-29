@@ -69,4 +69,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 ## Week 6: Review & Personal Project
 
 - [ ] Sat–Tue: Review pages 100–400
-- [ ] Wed–Fri: Build and document your own OOAD project
+- [ ] Wed–Fri: Build and document your own OOAD project.
+
+
+👉 **[Click here to view the Notion Plan](https://www.notion.so/Study-Plan-for-Head-First-Object-Oriented-Analysis-and-Design-1e418ca809bf80e698d5c4f918f2f169?pvs=4)**
