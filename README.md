@@ -1,6 +1,6 @@
 # Study Plan for *Head First Object-Oriented Analysis and Design*
 
-<p align="center"> <img src="HFOOAD.jpg" alt="sql" width="300"> </p>
+<p align="center"> <img src="HFOOAD.jpg" alt="HFOOAD" width="300"> </p>
 
 This is a 6-week study plan to complete and understand the book. You can track your progress by marking [x] when you complete each day's task.
 
