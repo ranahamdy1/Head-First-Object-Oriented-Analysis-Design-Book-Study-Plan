@@ -8,19 +8,19 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ## Week 1: Introduction to OO Thinking
 
-- [ ] Saturday: Pages 1–20 - Introduction + Why OO Analysis?
-- [ ] Sunday: Pages 21–40 - Thinking about requirements from user perspective
-- [ ] Monday: Pages 41–60 - Objects and abstraction basics
-- [ ] Tuesday: Pages 61–80 - Use Cases
-- [ ] Wednesday: Pages 81–100 - Mini project for requirements analysis
-- [ ] Thursday: Pages 101–110 - Review + small exercises
+- [x] Saturday: Pages 1–23 - (Chapter 1) well-designed apps rock + great software + Make sure your software does what the customer wants it to do
+- [ ] Sunday: Pages 24–35 - Apply basic OO principles to add flexibility
+- [ ] Monday: Pages 36–54 - Strive for a maintainable, reusable design.
+- [ ] Tuesday: Pages 55–77 - (Chapter 2) gathering requirements Give Them What They Want
+- [ ] Wednesday: Pages 78–91 - Checking your requirements against your use cases
+- [ ] Thursday: Pages 92–110 - Use Cases Exposed
 - [ ] Friday: Rest or recap
 
 ---
 
 ## Week 2: From Requirements to Design
 
-- [ ] Saturday: Pages 111–130 - Transitioning from problem to solution
+- [ ] Saturday: Pages 111–130 - (Chapter 3) requirements change + I Love You, You’re Perfect... Now Change
 - [ ] Sunday: Pages 131–150 - Writing scenarios and identifying objects
 - [ ] Monday: Pages 151–170 - Initial class design
 - [ ] Tuesday: Pages 171–190 - Designing object relationships
