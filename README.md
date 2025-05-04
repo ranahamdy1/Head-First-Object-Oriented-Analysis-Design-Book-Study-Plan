@@ -61,16 +61,19 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [ ] Monday: Pages 481–500 - Final modeling
 - [ ] Tuesday: Pages 501–520 - Applying SOLID principles
 - [ ] Wednesday: Pages 521–540 - Real project challenges
-- [ ] Thursday: Pages 541–550 - Final review + reflections
+- [ ] Thursday: Pages 541–555 - Final review + reflections
 - [ ] Friday: Rest
 
 ---
 
 ## Week 6: Review & Personal Project
 
-- [ ] Sat–Tue: Review pages 100–400
+- [ ] Sat–Tue: Review 
 - [ ] Wed–Fri: Build and document your own OOAD project.
 
+## appendix 
+- [ ] i : Pages 557–574  - leftovers ( The Top Ten Topics (we didn’t cover) )
+- [ ] ii : Pages 575–589  - welcome to objectville ( Speaking the Language of OO )
 
 👉 [Click here to duplicate the Notion template](https://flash-wall-183.notion.site/Study-Plan-for-Head-First-Object-Oriented-Analysis-and-Design-1e418ca809bf80e698d5c4f918f2f169?pvs=4)
 
