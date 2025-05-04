@@ -73,7 +73,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ## appendix 
 - [ ] i : Pages 557–574  - leftovers ( The Top Ten Topics (we didn’t cover) )
-- [ ] ii : Pages 575–589  - welcome to objectville ( Speaking the Language of OO )
+- [x] ii : Pages 575–589  - welcome to objectville ( Speaking the Language of OO )
 
 👉 [Click here to duplicate the Notion template](https://flash-wall-183.notion.site/Study-Plan-for-Head-First-Object-Oriented-Analysis-and-Design-1e418ca809bf80e698d5c4f918f2f169?pvs=4)
 
