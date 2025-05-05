@@ -36,15 +36,15 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Sunday: Pages 233–245 - (Chapter 5) (Part 2) good design = flexible software , Give Your Software a 30-minute Workout
 - [x] Monday: Pages 246–278 - Death of a design (decision)
 - [x] Tuesday: Pages 279–293 - (Chapter 6) solving really big problems , “My Name is Art Vandelay... I am an Architect”
-- [ ] Wednesday: Pages 294–320 - Common design pitfalls
-- [ ] Thursday: Pages 321–330 - Review + design practice
+- [ ] Wednesday: Pages 294–322 - Use cases don’t always help you see the big picture
+- [ ] Thursday: Review
 - [ ] Friday: Rest
 
 ---
 
 ## Week 4: Testing Your Designs
 
-- [ ] Saturday: Pages 331–350 - Thinking from a testing perspective
+- [ ] Saturday: Pages 323–350 - (Chapter 7) architecture , Bringing Order to Chaos
 - [ ] Sunday: Pages 351–370 - Writing test scenarios
 - [ ] Monday: Pages 371–390 - Incremental system building
 - [ ] Tuesday: Pages 391–410 - Safe refactoring
