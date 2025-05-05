@@ -16,6 +16,7 @@ Encapsulation is when you protect information in your code from being used incor
 
 > ## 📌 what does loosely coupled mean ?
 - Loosely coupled is when the objects in your application each have a specific job to do, and they do only that job. So the functionality of your app is spread out over lots of well-defined objects, which each do a single task really well.
+- That means that your objects are independent of each other
 
 > ## 📌Anonymous Class
 - هو نوع خاص من Inner Class.
