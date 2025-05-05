@@ -14,7 +14,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Tuesday: Pages 55–77 - (Chapter 2) gathering requirements Give Them What They Want
 - [x] Wednesday: Pages 78–91 - Checking your requirements against your use cases
 - [x] Thursday: Pages 92–110 - Use Cases Exposed 
-- [ ] Friday: Rest or recap
+- [x] Friday: Rest or recap
 
 ---
 
