@@ -12,7 +12,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Sunday: Pages 24–35 - Apply basic OO principles to add flexibility
 - [x] Monday: Pages 36–54 - Strive for a maintainable, reusable design.
 - [x] Tuesday: Pages 55–77 - (Chapter 2) gathering requirements Give Them What They Want
-- [ ] Wednesday: Pages 78–91 - Checking your requirements against your use cases
+- [x] Wednesday: Pages 78–91 - Checking your requirements against your use cases
 - [ ] Thursday: Pages 92–110 - Use Cases Exposed
 - [ ] Friday: Rest or recap
 
