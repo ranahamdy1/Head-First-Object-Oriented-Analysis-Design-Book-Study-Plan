@@ -35,8 +35,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Saturday: Pages 197–232 - (Chapter 5) (Part 1) good design = flexible software , Nothing Ever Stays the Same
 - [x] Sunday: Pages 233–245 - (Chapter 5) (Part 2) good design = flexible software , Give Your Software a 30-minute Workout
 - [x] Monday: Pages 246–278 - Death of a design (decision)
-- [ ] Tuesday: Pages 279–300 - (Chapter 6) solving really big problems , “My Name is Art Vandelay... I am an Architect”
-- [ ] Wednesday: Pages 301–320 - Common design pitfalls
+- [x] Tuesday: Pages 279–293 - (Chapter 6) solving really big problems , “My Name is Art Vandelay... I am an Architect”
+- [ ] Wednesday: Pages 294–320 - Common design pitfalls
 - [ ] Thursday: Pages 321–330 - Review + design practice
 - [ ] Friday: Rest
 
