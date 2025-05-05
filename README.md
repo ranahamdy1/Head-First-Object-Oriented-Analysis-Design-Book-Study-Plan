@@ -21,7 +21,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 ## Week 2: From Requirements to Design
 
 - [x] Saturday: Pages 111–130 - (Chapter 3) requirements change + I Love You, You’re Perfect... Now Change
-- [ ] Sunday: Pages 131–144 - start coding the dog door again
+- [x] Sunday: Pages 131–144 - start coding the dog door again
 - [ ] Monday: Pages 145–170 - (Chapter 4) analysis , Taking Your Software into the Real World
 - [ ] Tuesday: Pages 171–190 - Designing object relationships
 - [ ] Wednesday: Pages 191–210 - Introduction to UML diagrams
