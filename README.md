@@ -10,7 +10,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 - [x] Saturday: Pages 1–23 - (Chapter 1) well-designed apps rock + great software + Make sure your software does what the customer wants it to do
 - [x] Sunday: Pages 24–35 - Apply basic OO principles to add flexibility
-- [ ] Monday: Pages 36–54 - Strive for a maintainable, reusable design.
+- [x] Monday: Pages 36–54 - Strive for a maintainable, reusable design.
 - [ ] Tuesday: Pages 55–77 - (Chapter 2) gathering requirements Give Them What They Want
 - [ ] Wednesday: Pages 78–91 - Checking your requirements against your use cases
 - [ ] Thursday: Pages 92–110 - Use Cases Exposed
