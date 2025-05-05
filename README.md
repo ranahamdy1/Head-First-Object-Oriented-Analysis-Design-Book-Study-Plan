@@ -23,16 +23,16 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Saturday: Pages 111–130 - (Chapter 3) requirements change + I Love You, You’re Perfect... Now Change
 - [x] Sunday: Pages 131–144 - start coding the dog door again
 - [x] Monday: Pages 145–163 - (Chapter 4) analysis , Taking Your Software into the Real World
-- [ ] Tuesday: Pages 164–190 - Maria won the MacBook Pro!
-- [ ] Wednesday: Pages 191–210 - Introduction to UML diagrams
-- [ ] Thursday: Pages 211–220 - Weekly review + exercises
+- [ ] Tuesday: Pages 164–179 - Maria won the MacBook Pro!
+- [ ] Wednesday: Pages 180–196 - From good analysis to good classes...
+- [ ] Thursday: review
 - [ ] Friday: Rest
 
 ---
 
 ## Week 3: Flexible and Maintainable Design
 
-- [ ] Saturday: Pages 221–240 - Importance of scalable design
+- [ ] Saturday: Pages 197–240 - (Chapter 5) (Part 1) good design = flexible software , Nothing Ever Stays the Same
 - [ ] Sunday: Pages 241–260 - Key principles of good OO design
 - [ ] Monday: Pages 261–280 - Low coupling & high cohesion
 - [ ] Tuesday: Pages 281–300 - Delegation and abstraction in practice
