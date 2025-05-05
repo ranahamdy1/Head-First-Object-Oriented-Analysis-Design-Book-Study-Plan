@@ -22,8 +22,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 - [x] Saturday: Pages 111–130 - (Chapter 3) requirements change + I Love You, You’re Perfect... Now Change
 - [x] Sunday: Pages 131–144 - start coding the dog door again
-- [ ] Monday: Pages 145–170 - (Chapter 4) analysis , Taking Your Software into the Real World
-- [ ] Tuesday: Pages 171–190 - Designing object relationships
+- [x] Monday: Pages 145–163 - (Chapter 4) analysis , Taking Your Software into the Real World
+- [ ] Tuesday: Pages 164–190 - Maria won the MacBook Pro!
 - [ ] Wednesday: Pages 191–210 - Introduction to UML diagrams
 - [ ] Thursday: Pages 211–220 - Weekly review + exercises
 - [ ] Friday: Rest
