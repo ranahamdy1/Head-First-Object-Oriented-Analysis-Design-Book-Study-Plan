@@ -33,8 +33,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 ## Week 3: Flexible and Maintainable Design
 
 - [x] Saturday: Pages 197–232 - (Chapter 5) (Part 1) good design = flexible software , Nothing Ever Stays the Same
-- [ ] Sunday: Pages 233–260 - Key principles of good OO design
-- [ ] Monday: Pages 261–280 - Low coupling & high cohesion
+- [ ] Sunday: Pages 233–268 - (Chapter 5) (Part 2) good design = flexible software , Give Your Software a 30-minute Workout
+- [ ] Monday: Pages 269–280 - Low coupling & high cohesion
 - [ ] Tuesday: Pages 281–300 - Delegation and abstraction in practice
 - [ ] Wednesday: Pages 301–320 - Common design pitfalls
 - [ ] Thursday: Pages 321–330 - Review + design practice
