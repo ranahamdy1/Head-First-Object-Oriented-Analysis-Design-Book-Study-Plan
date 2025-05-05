@@ -23,10 +23,10 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Saturday: Pages 111–130 - (Chapter 3) requirements change + I Love You, You’re Perfect... Now Change
 - [x] Sunday: Pages 131–144 - start coding the dog door again
 - [x] Monday: Pages 145–163 - (Chapter 4) analysis , Taking Your Software into the Real World
-- [ ] Tuesday: Pages 164–179 - Maria won the MacBook Pro!
-- [ ] Wednesday: Pages 180–196 - From good analysis to good classes...
-- [ ] Thursday: review
-- [ ] Friday: Rest
+- [x] Tuesday: Pages 164–179 - Maria won the MacBook Pro!
+- [x] Wednesday: Pages 180–196 - From good analysis to good classes... , Maria’s Dog Door Class Diagram
+- [x] Thursday: review
+- [x] Friday: Rest
 
 ---
 
