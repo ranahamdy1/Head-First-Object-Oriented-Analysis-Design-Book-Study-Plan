@@ -44,8 +44,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ## Week 4: Testing Your Designs
 
-- [ ] Saturday: Pages 323–350 - (Chapter 7) architecture , Bringing Order to Chaos
-- [ ] Sunday: Pages 351–370 - Writing test scenarios
+- [x] Saturday: Pages 323–340 - (Chapter 7) architecture , Bringing Order to Chaos
+- [ ] Sunday: Pages 341–370 - Writing test scenarios
 - [ ] Monday: Pages 371–390 - Incremental system building
 - [ ] Tuesday: Pages 391–410 - Safe refactoring
 - [ ] Wednesday: Pages 411–430 - Design evaluation
