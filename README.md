@@ -56,7 +56,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ## Week 5: Full Project Case Study
 
-- [x] Saturday: Pages 423–432 - (Chapter 9) iterating and testing The Software is Still for the Customer
+- [x] Saturday: Pages 423–432 - (Chapter 9) iterating and testing , The Software is Still for the Customer
 - [ ] Sunday: Pages 433–480 - use feature driven development
 - [ ] Monday: Pages 481–500 - Final modeling
 - [ ] Tuesday: Pages 501–520 - Applying SOLID principles
