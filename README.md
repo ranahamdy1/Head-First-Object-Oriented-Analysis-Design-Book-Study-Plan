@@ -6,7 +6,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ---
 
-## Week 1: Introduction to OO Thinking
+## Week 1:
 
 - [x] Saturday: Pages 1–23 - (Chapter 1) well-designed apps rock + great software + Make sure your software does what the customer wants it to do
 - [x] Sunday: Pages 24–35 - Apply basic OO principles to add flexibility
@@ -18,7 +18,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ---
 
-## Week 2: From Requirements to Design
+## Week 2: 
 
 - [x] Saturday: Pages 111–130 - (Chapter 3) requirements change + I Love You, You’re Perfect... Now Change
 - [x] Sunday: Pages 131–144 - start coding the dog door again
@@ -30,7 +30,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ---
 
-## Week 3: Flexible and Maintainable Design
+## Week 3:
 
 - [x] Saturday: Pages 197–232 - (Chapter 5) (Part 1) good design = flexible software , Nothing Ever Stays the Same
 - [x] Sunday: Pages 233–245 - (Chapter 5) (Part 2) good design = flexible software , Give Your Software a 30-minute Workout
@@ -42,7 +42,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ---
 
-## Week 4: Testing Your Designs
+## Week 4: 
 
 - [x] Saturday: Pages 323–340 - (Chapter 7) architecture , Bringing Order to Chaos
 - [x] Sunday: Pages 341–374 - Scenarios help reduce risk
@@ -54,7 +54,7 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 ---
 
-## Week 5: Full Project Case Study
+## Week 5: 
 
 - [x] Saturday: Pages 423–432 - (Chapter 9) iterating and testing , The Software is Still for the Customer
 - [x] Sunday: Pages 433–453 - use feature driven development
