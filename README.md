@@ -60,8 +60,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Sunday: Pages 433–453 - use feature driven development
 - [x] Monday: Pages 454–482 - Test cases dissected...
 - [x] Tuesday: Pages 483–502 - (Chapter 10) the ooa&d lifecycle , Putting It All Together
-- [ ] Wednesday: Pages 503–540 - Now start to iterate
-- [ ] Thursday: Pages 541–555 - Final review + reflections
+- [x] Wednesday: Pages 503–530 - Now start to iterate
+- [ ] Thursday: Pages 531–555 - But before we start Iteration 2...
 - [ ] Friday: Rest
 
 ---
