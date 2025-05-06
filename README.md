@@ -46,8 +46,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 - [x] Saturday: Pages 323–340 - (Chapter 7) architecture , Bringing Order to Chaos
 - [x] Sunday: Pages 341–374 - Scenarios help reduce risk
-- [ ] Monday: Pages 375–390 - (Chapter 8) design principles , Originality is Overrated
-- [ ] Tuesday: Pages 391–410 - Safe refactoring
+- [x] Monday: Pages 375–381 - (Chapter 8) design principles , Originality is Overrated , The Open-Closed Principle (OCP)
+- [ ] Tuesday: Pages 382–410 - The Don’t Repeat Yourself Principle (DRY)
 - [ ] Wednesday: Pages 411–430 - Design evaluation
 - [ ] Thursday: Pages 431–440 - Review + final example
 - [ ] Friday: Rest
