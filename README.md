@@ -62,12 +62,12 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Tuesday: Pages 483–502 - (Chapter 10) the ooa&d lifecycle , Putting It All Together
 - [x] Wednesday: Pages 503–530 - Now start to iterate
 - [x] Thursday: Pages 531–555 - Iteration 2...
-- [x] Friday: Review & Build OOAD project.
+- [x] Friday: Review & Build OOAD project
 
 ---
 
 ## appendix 
-- [ ] i : Pages 557–574  - leftovers ( The Top Ten Topics (we didn’t cover) )
+- [x] i : Pages 557–574  - leftovers ( The Top Ten Topics (we didn’t cover) )
 - [x] ii : Pages 575–589  - welcome to objectville ( Speaking the Language of OO )
 
 👉 [Click here to duplicate the Notion template](https://flash-wall-183.notion.site/Study-Plan-for-Head-First-Object-Oriented-Analysis-and-Design-1e418ca809bf80e698d5c4f918f2f169?pvs=4)
