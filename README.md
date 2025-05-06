@@ -45,8 +45,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 ## Week 4: Testing Your Designs
 
 - [x] Saturday: Pages 323–340 - (Chapter 7) architecture , Bringing Order to Chaos
-- [ ] Sunday: Pages 341–370 - Writing test scenarios
-- [ ] Monday: Pages 371–390 - Incremental system building
+- [x] Sunday: Pages 341–374 - Scenarios help reduce risk
+- [ ] Monday: Pages 375–390 - (Chapter 8) design principles , Originality is Overrated
 - [ ] Tuesday: Pages 391–410 - Safe refactoring
 - [ ] Wednesday: Pages 411–430 - Design evaluation
 - [ ] Thursday: Pages 431–440 - Review + final example
