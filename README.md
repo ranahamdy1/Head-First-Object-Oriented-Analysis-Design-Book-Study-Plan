@@ -61,15 +61,10 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Monday: Pages 454–482 - Test cases dissected...
 - [x] Tuesday: Pages 483–502 - (Chapter 10) the ooa&d lifecycle , Putting It All Together
 - [x] Wednesday: Pages 503–530 - Now start to iterate
-- [ ] Thursday: Pages 531–555 - But before we start Iteration 2...
-- [ ] Friday: Rest
+- [x] Thursday: Pages 531–555 - Iteration 2...
+- [x] Friday: Review & Build OOAD project.
 
 ---
-
-## Week 6: Review & Personal Project
-
-- [ ] Sat–Tue: Review 
-- [ ] Wed–Fri: Build and document your own OOAD project.
 
 ## appendix 
 - [ ] i : Pages 557–574  - leftovers ( The Top Ten Topics (we didn’t cover) )
