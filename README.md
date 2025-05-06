@@ -58,8 +58,8 @@ This is a 6-week study plan to complete and understand the book. You can track y
 
 - [x] Saturday: Pages 423–432 - (Chapter 9) iterating and testing , The Software is Still for the Customer
 - [x] Sunday: Pages 433–453 - use feature driven development
-- [ ] Monday: Pages 454–500 - Test cases dissected...
-- [ ] Tuesday: Pages 501–520 - Applying SOLID principles
+- [ ] Monday: Pages 454–482 - Test cases dissected...
+- [ ] Tuesday: Pages 483–520 - (Chapter 10) the ooa&d lifecycle , Putting It All Together
 - [ ] Wednesday: Pages 521–540 - Real project challenges
 - [ ] Thursday: Pages 541–555 - Final review + reflections
 - [ ] Friday: Rest
