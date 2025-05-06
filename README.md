@@ -36,9 +36,9 @@ This is a 6-week study plan to complete and understand the book. You can track y
 - [x] Sunday: Pages 233–245 - (Chapter 5) (Part 2) good design = flexible software , Give Your Software a 30-minute Workout
 - [x] Monday: Pages 246–278 - Death of a design (decision)
 - [x] Tuesday: Pages 279–293 - (Chapter 6) solving really big problems , “My Name is Art Vandelay... I am an Architect”
-- [ ] Wednesday: Pages 294–322 - Use cases don’t always help you see the big picture
-- [ ] Thursday: Review
-- [ ] Friday: Rest
+- [x] Wednesday: Pages 294–322 - Use cases don’t always help you see the big picture 
+- [x] Thursday: Review
+- [x] Friday: Rest
 
 ---
 
